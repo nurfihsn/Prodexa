@@ -45,7 +45,7 @@ Prodexa/
 #### 1️⃣ Clone Repositori
 
 ```
-git clone https://github.com/username/prodexa.git
+git clone https://github.com/nurfihsn/Prodexa.git
 cd prodexa
 ```
 
