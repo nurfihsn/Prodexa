@@ -1,12 +1,12 @@
-## Prodexa - Sistem Manajemen Produk
+### Sistem Manajemen Produk
 
-### Deskripsi
+#### Deskripsi
 
 **Prodexa** adalah aplikasi manajemen inventaris produk berbasis web yang dikembangkan menggunakan PHP Native dengan arsitektur **MVC**.
 
 ---
 
-### Struktur Proyek
+#### Struktur Proyek
 
 Struktur folder dikembangkan untuk memisahkan backend, frontend, dan akses publik:
 
